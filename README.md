@@ -19,7 +19,7 @@ I like building stuff. I'm an expert in cross-platform app technologies like And
 
 ## Projects
 
-### Inspektor: A multiplatform HTTP inspection library for Ktor inspired by Chucker
+### [Inspektor: A multiplatform HTTP inspection library for Ktor inspired by Chucker](https://github.com/ShreyashKore/inspektor)
 
 [![main status](https://github.com/ShreyashKore/inspektor/actions/workflows/publish.yaml/badge.svg?branch=main)](https://central.sonatype.com/artifact/com.gyanoba.inspektor/inspektor)
 ![Kotlin](https://img.shields.io/badge/Kotlin-2.0.20-8949FB.svg?style=flat&logo=kotlin)
@@ -29,7 +29,7 @@ Inspektor is an HTTP inspection library for Ktor. It allows you to view HTTP req
 
 <img src="https://raw.githubusercontent.com/ShreyashKore/inspektor/refs/heads/main/images/screenshots.png" />
 
-### [Wonderous Compose: a port of Wonderous in Compose Multiplatform](https://shreyashkore.github.io/wonderous-compose-wasm/)
+### [Wonderous Compose: a port of Wonderous in Compose Multiplatform](https://github.com/ShreyashKore/wonderous_compose)
 
 ![Android][badge-android]
 ![IOS][badge-ios]
@@ -41,7 +41,7 @@ Inspektor is an HTTP inspection library for Ktor. It allows you to view HTTP req
 
 Wonderous Compose is a port of Wonderous in Compose Multiplatform. Wonderous Compose is a visual showcase of eight wonders of the world. The original project was built by team gskinner using Flutter. This project is a tribute to their original work, with an aim to explore the design possibilities with Compose.
 
-<img src="https://raw.githubusercontent.com/ShreyashKore/wonderous_compose/main/readme_images/banner.png" />
+[<img src="https://raw.githubusercontent.com/ShreyashKore/wonderous_compose/main/readme_images/banner.png" />](https://shreyashkore.github.io/wonderous-compose-wasm/)
 
 <p></br></p>
 
@@ -51,7 +51,7 @@ Wonderous Compose is a port of Wonderous in Compose Multiplatform. Wonderous Com
 </p>  
 
 
-### EJS Editor
+### [EJS Editor](https://github.com/ShreyashKore/ejs_editor)
 
 [![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -61,7 +61,7 @@ Wonderous Compose is a port of Wonderous in Compose Multiplatform. Wonderous Com
 
 A web-based editor for EJS (Embedded JavaScript) templates with live preview functionality.
 
-<img src="https://raw.githubusercontent.com/ShreyashKore/ejs_editor/refs/heads/main/readme_images/site_screenshot.png" />
+[<img src="https://raw.githubusercontent.com/ShreyashKore/ejs_editor/refs/heads/main/readme_images/site_screenshot.png" />](https://ejs-editor.vercel.app/)
 
 <p></br></p>
 

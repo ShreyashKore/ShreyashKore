@@ -29,6 +29,17 @@ Inspektor is an HTTP inspection library for Ktor. It allows you to view HTTP req
 
 <img src="https://raw.githubusercontent.com/ShreyashKore/inspektor/refs/heads/main/images/screenshots.png" />
 
+### [Eagly: A cross-platform desktop log viewer for Android and iOS devices](https://github.com/ShreyashKore/eagly)
+
+[![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?style=flat&logo=flutter&logoColor=white)](https://flutter.dev)
+[![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?style=flat&logo=dart&logoColor=white)](https://dart.dev)
+![Desktop](https://img.shields.io/badge/Platforms-macOS%20%7C%20Windows%20%7C%20Linux-informational?logo=apple&logoColor=white)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/ShreyashKore/eagly/blob/main/LICENSE)
+
+Eagly is a cross-platform desktop log viewer for Android and iOS devices, built for developers and testers who need a fast, reliable way to inspect device logs without any command-line setup. It bundles `adb` and `libimobiledevice` so no external tools are required, and supports filtering, wireless debugging, multi-device tabs, and log import/export.
+
+<img src="https://github.com/ShreyashKore/eagly/raw/main/docs/screenshots/logs_screen.png" />
+
 ### [Wonderous Compose: a port of Wonderous in Compose Multiplatform](https://github.com/ShreyashKore/wonderous_compose)
 
 ![Android][badge-android]

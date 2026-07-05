@@ -10,8 +10,8 @@ I like building stuff. I'm an expert in cross-platform app technologies like And
 <p></br></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShreyashKore&show_icons=true&theme=transparent" alt="Shreyash's Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyashKore&layout=compact" alt="Shreyash's top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShreyashKore&theme=transparent" alt="Shreyash's Github Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShreyashKore&theme=transparent" alt="Shreyash's top languages" />
 </p>
 
 

@@ -1,100 +1,119 @@
-## Hello 👋
+# Shreyash Kore
 
-I like building stuff. I'm an expert in cross-platform app technologies like Android/Kotlin Multiplatform and Flutter/Dart.
+**Senior mobile engineer — Android · Kotlin Multiplatform · Flutter · React Native**
 
-- 🔭 I’m currently working on Inspektor.
-- 🌱 I’m currently learning Backend and AI.
-- 👯 I’m looking to collaborate on multiplatform projects.
-- 📫 How to reach me: [@ShreyashKore](https://twitter.com/ShreyashKore)
+I build cross-platform apps and the developer tools that make them easier to ship. Kotlin and Dart most days, TypeScript and Node.js on the backend.
 
-<p></br></p>
+[gyanoba.com](https://gyanoba.com) · [LinkedIn](https://www.linkedin.com/in/shreyashkore/) · [X](https://twitter.com/ShreyashKore) · [YouTube](https://www.youtube.com/channel/UCoTuYVuoLypuiy8LIGJGn4A)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShreyashKore&theme=transparent" alt="Shreyash's Github Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShreyashKore&theme=transparent" alt="Shreyash's top languages" />
-</p>
+<table>
+<tr align="center" valign="top">
+<td width="25%">
+<a href="https://github.com/ShreyashKore/wonderous_compose"><img src="https://raw.githubusercontent.com/ShreyashKore/wonderous_compose/main/readme_images/app-icon.webp" width="64" alt="Wonderous Compose app icon"></a><br>
+<b><a href="https://github.com/ShreyashKore/wonderous_compose">Wonderous Compose</a></b><br>
+<sub>Compose Multiplatform app on 5 platforms</sub><br>
+<img src="https://img.shields.io/github/stars/ShreyashKore/wonderous_compose?style=flat-square&label=%E2%98%85&labelColor=24292f&color=24292f" alt="stars">
+</td>
+<td width="25%">
+<a href="https://github.com/ShreyashKore/inspektor"><img src="https://raw.githubusercontent.com/ShreyashKore/inspektor/main/images/inspektor.png" width="64" alt="Inspektor logo"></a><br>
+<b><a href="https://github.com/ShreyashKore/inspektor">Inspektor</a></b><br>
+<sub>HTTP inspection library for Ktor</sub><br>
+<img src="https://img.shields.io/github/stars/ShreyashKore/inspektor?style=flat-square&label=%E2%98%85&labelColor=24292f&color=24292f" alt="stars">
+</td>
+<td width="25%">
+<a href="https://github.com/ShreyashKore/kexcel"><img src="https://raw.githubusercontent.com/ShreyashKore/kexcel/main/art/logo.png" width="64" alt="Kexcel logo"></a><br>
+<b><a href="https://github.com/ShreyashKore/kexcel">Kexcel</a></b><br>
+<sub>Excel for Kotlin Multiplatform, no Apache POI</sub><br>
+<img src="https://img.shields.io/github/stars/ShreyashKore/kexcel?style=flat-square&label=%E2%98%85&labelColor=24292f&color=24292f" alt="stars">
+</td>
+<td width="25%">
+<a href="https://github.com/ShreyashKore/eagly"><img src="https://raw.githubusercontent.com/ShreyashKore/eagly/main/assets/app_icon.png" width="64" alt="Eagly app icon"></a><br>
+<b><a href="https://github.com/ShreyashKore/eagly">Eagly</a></b><br>
+<sub>Android &amp; iOS log viewer for the desktop</sub><br>
+<img src="https://img.shields.io/github/stars/ShreyashKore/eagly?style=flat-square&label=%E2%98%85&labelColor=24292f&color=24292f" alt="stars">
+</td>
+</tr>
+</table>
 
+<sub>Also: <a href="https://github.com/ShreyashKore/ejs_editor">EJS Editor</a> · <a href="https://github.com/ShreyashKore/ComposeGoodies">ComposeGoodies</a> · <a href="https://github.com/ShreyashKore?tab=repositories">all repositories</a></sub>
 
-<p></br></p>
+---
 
-## Projects
+<img align="right" width="430" alt="Wonderous Compose running on Android, iOS and the web, showing the Taj Mahal screen" src="https://raw.githubusercontent.com/ShreyashKore/wonderous_compose/main/readme_images/banner.png">
 
-### [Inspektor: A multiplatform HTTP inspection library for Ktor inspired by Chucker](https://github.com/ShreyashKore/inspektor)
+### Wonderous Compose
 
-[![main status](https://github.com/ShreyashKore/inspektor/actions/workflows/publish.yaml/badge.svg?branch=main)](https://central.sonatype.com/artifact/com.gyanoba.inspektor/inspektor)
-![Kotlin](https://img.shields.io/badge/Kotlin-2.0.20-8949FB.svg?style=flat&logo=kotlin)
-[![latest version](https://img.shields.io/maven-central/v/com.gyanoba.inspektor/inspektor?color=blue&label=Version)](https://central.sonatype.com/artifact/com.gyanoba.inspektor/inspektor)
+<sub>**Kotlin · Compose Multiplatform · WASM**</sub>
 
-Inspektor is an HTTP inspection library for Ktor. It allows you to view HTTP requests and responses, including basic information, headers, and bodies. Please note that this library is not stable, and the API may change. Users are not advised to use it in production projects.
+A port of gskinner's Wonderous to **Compose Multiplatform** — one Kotlin codebase running on Android, iOS, desktop and the browser via WASM. Built to find out how far Compose can be pushed on animation-heavy, art-directed UI: parallax, shared-element transitions and custom illustration work included.
 
-<img src="https://raw.githubusercontent.com/ShreyashKore/inspektor/refs/heads/main/images/screenshots.png" />
+[Repository](https://github.com/ShreyashKore/wonderous_compose) · [Try it in the browser](https://shreyashkore.github.io/wonderous-compose-wasm/)
 
-### [Eagly: A cross-platform desktop log viewer for Android and iOS devices](https://github.com/ShreyashKore/eagly)
+<br clear="all">
 
-[![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?style=flat&logo=flutter&logoColor=white)](https://flutter.dev)
-[![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?style=flat&logo=dart&logoColor=white)](https://dart.dev)
-![Desktop](https://img.shields.io/badge/Platforms-macOS%20%7C%20Windows%20%7C%20Linux-informational?logo=apple&logoColor=white)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/ShreyashKore/eagly/blob/main/LICENSE)
+<img align="left" width="430" alt="Inspektor showing HTTP request and response details inside an Android app and on desktop" src="https://raw.githubusercontent.com/ShreyashKore/inspektor/main/images/cover.png">
 
-Eagly is a cross-platform desktop log viewer for Android and iOS devices, built for developers and testers who need a fast, reliable way to inspect device logs without any command-line setup. It bundles `adb` and `libimobiledevice` so no external tools are required, and supports filtering, wireless debugging, multi-device tabs, and log import/export.
+### Inspektor
 
-<img src="https://github.com/ShreyashKore/eagly/raw/main/docs/screenshots/logs_screen.png" />
+<sub>**Kotlin Multiplatform · Ktor**</sub>
 
-### [Wonderous Compose: a port of Wonderous in Compose Multiplatform](https://github.com/ShreyashKore/wonderous_compose)
+An **HTTP inspection library for Ktor**, in the spirit of Chucker. Drop it into a client and inspect requests, headers and bodies from inside the running app — then go further and **override or mock responses** without touching the backend. Published on Maven Central for Android, iOS, desktop and web.
 
-![Android][badge-android]
-![IOS][badge-ios]
-![badge linux][badge-linux]
-![badge windows][badge-windows]
-![badge macos][badge-macos]
-![badge web javascript][badge-js]
-![badge web wasm][badge-wasm]
+[Repository](https://github.com/ShreyashKore/inspektor) · [Maven Central](https://central.sonatype.com/artifact/com.gyanoba.inspektor/inspektor)
 
-Wonderous Compose is a port of Wonderous in Compose Multiplatform. Wonderous Compose is a visual showcase of eight wonders of the world. The original project was built by team gskinner using Flutter. This project is a tribute to their original work, with an aim to explore the design possibilities with Compose.
+<br clear="all">
 
-[<img src="https://raw.githubusercontent.com/ShreyashKore/wonderous_compose/main/readme_images/banner.png" />](https://shreyashkore.github.io/wonderous-compose-wasm/)
+### Kexcel
 
-<p></br></p>
+<sub>**Kotlin Multiplatform · Office Open XML**</sub>
 
-<p align="center">
-  <a href="https://in.linkedin.com/in/shreyashkore" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="vidyabhandary"/></a> 
-  <a href="https://twitter.com/ShreyashKore" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-</p>  
+Every other Kotlin Excel library wraps Apache POI, which is JVM-only. **Kexcel parses and writes `.xlsx` itself, in pure Kotlin**, so the same spreadsheet code runs in `commonMain` on JVM, Android and iOS — styling, formulas, merged cells and all.
 
+```kotlin
+val excel = Excel.createExcel()
+val sheet = excel["Sheet1"]
 
-### [EJS Editor](https://github.com/ShreyashKore/ejs_editor)
+sheet.updateCell(CellIndex.indexByString("A1"), TextCellValue("Revenue"))
+sheet.updateCell(CellIndex.indexByString("B1"), FormulaCellValue("=SUM(B2:B12)"))
 
-[![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Monaco Editor](https://img.shields.io/badge/Monaco_Editor-0078D7?style=flat&logo=visual-studio-code&logoColor=white)](https://microsoft.github.io/monaco-editor/)
-[![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat&logo=ejs&logoColor=white)](https://ejs.co/)
+val bytes: ByteArray = excel.encode()
+```
 
-A web-based editor for EJS (Embedded JavaScript) templates with live preview functionality.
+[Repository](https://github.com/ShreyashKore/kexcel) · [Documentation](https://shreyashkore.github.io/kexcel/) · [Maven Central](https://central.sonatype.com/artifact/com.gyanoba.kexcel/kexcel)
 
-[<img src="https://raw.githubusercontent.com/ShreyashKore/ejs_editor/refs/heads/main/readme_images/site_screenshot.png" />](https://ejs-editor.vercel.app/)
+<br clear="all">
 
-<p></br></p>
+<img align="right" width="430" alt="Eagly desktop app showing filtered Android device logs" src="https://raw.githubusercontent.com/ShreyashKore/eagly/main/docs/screenshots/logs_screen.png">
 
-<p align="center">
-  <a href="https://in.linkedin.com/in/shreyashkore" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="vidyabhandary"/></a> 
-  <a href="https://twitter.com/ShreyashKore" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-</p>  
+### Eagly
 
+<sub>**Flutter · Dart · macOS, Windows, Linux**</sub>
 
+A **desktop log viewer for Android and iOS devices**, for developers and QA who need device logs without a terminal. `adb` and `libimobiledevice` are bundled, so there is nothing to install: multi-device tabs, live filtering, wireless debugging, screen mirroring, iOS crash logs and log import/export.
 
-[badge-android]: http://img.shields.io/badge/platform-android-6EDB8D.svg?style=flat
+[Repository](https://github.com/ShreyashKore/eagly) · [Download](https://github.com/ShreyashKore/eagly/releases)
 
-[badge-ios]: http://img.shields.io/badge/platform-ios-CDCDCD.svg?style=flat
+<br clear="all">
 
-[badge-js]: http://img.shields.io/badge/platform-js-F8DB5D.svg?style=flat
+<table>
+<tr>
+<td width="33%"><img alt="Eagly wireless debugging setup" src="https://raw.githubusercontent.com/ShreyashKore/eagly/main/docs/screenshots/wireless-debugging.png"></td>
+<td width="33%"><img alt="Eagly screen mirroring a connected device" src="https://raw.githubusercontent.com/ShreyashKore/eagly/main/docs/screenshots/screen-mirroring.png"></td>
+<td width="33%"><img alt="Eagly iOS crash log details" src="https://raw.githubusercontent.com/ShreyashKore/eagly/main/docs/screenshots/ios-crashlogs-details.png"></td>
+</tr>
+</table>
 
-[badge-jvm]: http://img.shields.io/badge/platform-jvm-DB413D.svg?style=flat
+---
 
-[badge-linux]: http://img.shields.io/badge/platform-linux-2D3F6C.svg?style=flat
+### Toolbox
 
-[badge-windows]: http://img.shields.io/badge/platform-windows-4D76CD.svg?style=flat
+|  |  |
+| --- | --- |
+| **Android & Kotlin** | Kotlin, Java, Jetpack Compose, Coroutines, Ktor, Gradle |
+| **Cross-platform** | Compose Multiplatform, Flutter/Dart, React Native/TypeScript |
+| **Backend & web** | Node.js, TypeScript, Next.js, REST, GraphQL |
+| **Tooling** | GitHub Actions, IntelliJ Platform, Maven Central publishing |
 
-[badge-macos]: http://img.shields.io/badge/platform-macos-111111.svg?style=flat
+I started on native Android with Java, moved through Jetpack Compose to Compose Multiplatform, and ship Flutter and React Native alongside it — so cross-platform decisions get made on trade-offs rather than on whichever framework I happen to know.
 
-[badge-wasm]: https://img.shields.io/badge/platform-wasm-624FE8.svg?style=flat
+Open to interesting cross-platform work — [say hello](https://www.linkedin.com/in/shreyashkore/).
